@@ -4,7 +4,7 @@
   "description": "## Rails Reference",
   "main": "index.js",
   "scripts": {
-    "build": "webpack --progress --colors -p",
+    "build": "webpack --progress --colors",
     "lint": "eslint .",
     "start": "nodemon index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
