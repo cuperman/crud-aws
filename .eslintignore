@@ -3,3 +3,6 @@
 
 # Ignore installed dependencies
 node_modules/*
+
+# Ignore build
+/dist
